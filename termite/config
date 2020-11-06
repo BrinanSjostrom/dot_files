@@ -6,10 +6,10 @@ cell_height_scale = 1.2
 cell_width_scale = 1.2
 #clickable_url = true
 #dynamic_title = true
-font = Source Code Variable Semibold Italic 10
+font = SourceCodePro 12px
 #fullscreen = true
 #icon_name = terminal
-#mouse_autohide = false
+mouse_autohide = true
 #scroll_on_output = false
 #scroll_on_keystroke = true
 # Length of the scrollback buffer, 0 disabled the scrollback buffer
@@ -47,7 +47,7 @@ foreground          = #A6AFB8
 foreground_bold     = #A6AFB8
 cursor              = #A6AFB8
 cursor_foreground   = #18262F
-background          = rgba(45, 45, 45, 0.80)
+background          = rgba(45, 45, 45, 0.90)
 
 # 16 color space
 
